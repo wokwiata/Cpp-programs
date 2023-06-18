@@ -1,0 +1,4 @@
+- klasy inaczej struktury są podstawowym mechanizmem programowania obiektowego
+- zmienne to pola, funckje to metody
+- class inaczej struct
+- użycie const sprawi ze funkcja nie zmieni wartosci klasy

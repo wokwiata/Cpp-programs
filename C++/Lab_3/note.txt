@@ -1,0 +1,10 @@
+1. + - 32
+3. mnozenie w slupku, tablica dwuwymiarowa
+4. rozmiar tablicy łączącej (N + 1) / 2
+
+verified_Lab_3: 1, 2, 4, 3, 5
+
+4 - sprawdzić ilość par, ja ma przeskakiwac co dwa, aby zakażdym razem brał
+średią dwóch osobych par, a nie dwóch kolejnych wyrazów tablicy t1.
+
+5 - ko

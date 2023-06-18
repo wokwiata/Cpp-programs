@@ -1,0 +1,6 @@
+ - przyznal dostep do lab2
+ - lab4 koniecznie na nastepny znajdz
+dwuwymiarowa tablica: dwa fory
+y - zew, x -wew
+
+verified: 1, 2 
