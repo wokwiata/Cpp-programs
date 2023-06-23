@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/wojciechk/CLionProjects/Cpp-programs/powtórka/leetcode Select CMakeLists.txt
